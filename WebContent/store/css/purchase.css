@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+	#img{
+		
+		width:300px; 
+		height:300px;
+	}
+	#intname{
+	
+		width:300px;
+		height:60px;
+	}
+	#intprice{
+		
+		width:300px;
+		height:30px;
+	}
+	#intcount{
+		
+		width:300px;
+		height:30px;
+	}
+	#insertcart{
+	
+		width:200px;
+		height:60px;
+	}
+	#intinf{
+		
+		width:300px;
+		height:60px;
+	}

@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+#totalDiv{
+	margin: 20px solid white;
+	border: 20px solid white; 
+}
+
+#userImg {
+	height: 40px;
+    width: 40px; 
+    border-radius: 50%;
+    display: inline-block; 
+}
+
+div{ 
+	text-align: center; 
+}  
+
+h5{
+	padding-top: 50px;
+}
+ 
+.con{  
+	height: 600px;
+	width: 700px;
+	
+	margin: 20px;
+}
+
+p {
+	width: 700px;
+	margin: auto;
+	width: 80%;
+	
+	text-align: left;
+}
+
+.commentTbl {
+	margin: auto;
+	text-align:left;
+}
+
+.commDeleteBtn { 
+	border: none;
+}
+
+.commDeleteBtn:hover{
+	background-color: #e0ebeb;
+}
+
+.comDeleteImg { 
+	width: 30px;
+	height: 30px; 
+}
+
+.commentInsertCls{
+	margin: 10px 50px;
+}
+
+#commentContent {
+	color: gray; 
+	font-size:16px;  
+	
+	background-color: #F0F8FF;
+	border: 1px solid lightgrey; 
+	border-radius: 20px;  
+	box-sizing: content-box;
+	height: 30px; 
+	width: 590px; 
+	padding: 5px 5px 5px 15px; 
+} 
+
+#commInsertBtn {
+	color: white; 
+	font-size:14px; 
+	
+	background-color: rgb(184, 194, 211);
+	border: 1px solid lightgrey; 
+	border-radius: 40px;  
+	box-sizing: content-box;
+	padding: 5px;
+	height: 30px;
+	width: 50px; 
+	margin-left:10px;  
+} 
+
+#commInsertBtn:hover { 
+	background-color: rgb(145, 156, 173);
+}
+ 

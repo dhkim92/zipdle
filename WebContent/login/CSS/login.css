@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+#body{
+	/* background: #17a2b738!important; */
+}
+
+#logodiv1{
+	padding-bottom: 10px!important;
+}
+
+#logo{
+	margin-top: 60px!important;
+	color: rgba(8, 52, 80, 0.84)!important;
+
+}
+
+#loginBt{
+     margin-top: 60px!important;
+     background: rgba(8, 52, 80, 0.84)!important;
+     border-color: rgba(8, 52, 80, 0.84)!important;
+}
+
+#btnsdiv1{
+	padding-top: 70px!important;
+} 

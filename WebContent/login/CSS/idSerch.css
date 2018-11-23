@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+#body{
+	/* background: #17a2b738!important; */
+}
+
+#logo{
+	margin-top: 60px!important;
+	color: rgba(8, 52, 80, 0.84)!important;
+
+}
+
+.form-group{
+	margin-bottom: 40px!important;
+}
+
+#idSerchBt{
+ 	background: rgba(8, 52, 80, 0.84)!important;
+    border-color: rgba(8, 52, 80, 0.84)!important;
+    margin-top: 80px!important;
+}

@@ -1,0 +1,50 @@
+
+	#basketboard{
+		width:900px; 
+		height:1300px;
+	}
+	#storebasket{
+	
+		width:250px;
+		height:30px;
+	}
+	#ititem{
+		
+		width: 900px;
+		height: 100px;
+	}
+	#itemname{
+		text-align: center;
+		width: 400px;
+		height: 30px;
+	}
+	#itmeamount{
+		
+		width: 120px;
+		height: 30px;
+	}
+	#itemprice{
+		
+		width: 200px;
+		height: 30px;
+		text-align: right;
+	}
+	#purchaseinfo{
+		
+		width: 900px;
+		height: 30px;
+		margin:5px;
+		text-align: right;
+	}
+	#chargetable{
+	
+		width: 700px;
+		height: 30px;
+		text-align: right;
+	}
+	#chargevalue{
+		
+		width: 180px;
+		height: 30px;
+		text-align: right;
+	}

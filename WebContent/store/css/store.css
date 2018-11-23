@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+<style>
+
+	#storboard{
+		
+		
+	}
+	#boardcon{
+		width:290px;
+		height:400px;
+		
+	}
+	#ititem{
+		
+		width: 250px;
+		height: 300px;
+	}
+	#inf{
+		text-align: center;
+	}
+
+	#index{
+		border:1px solid black;
+		width:250px;
+		height:30px;
+	}
+	#idxtable{
+		position:relative;
+		top: 5px;
+		left: 590px;
+	}
+	
+	#glassimg{
+		width:30px;
+		height:30px;
+	}
+	#bottomPage{
+		
+		height: 50px;
+		width: 900px;
+	}
+
+</style>

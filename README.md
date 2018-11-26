@@ -2,7 +2,7 @@
 ### 인테리어 중개 사이트
 
 ** Interior intermediary site
-from KH-Final project
+from SEMI project
 
 ---------------
 ## 개발환경 

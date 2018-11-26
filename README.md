@@ -1,7 +1,7 @@
 # zipdle
 ### 인테리어 중개 사이트
 
-**Interior intermediary site
+** Interior intermediary site
 from KH-Final project
 
 ---------------

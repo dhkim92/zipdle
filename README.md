@@ -16,7 +16,7 @@ JavaScript를 처음 사용해 기존의 Java 언어와는 다른 장점이 있�
 
 - Server
    - window 10 pro
-   - Apache tomcat 9.0
+   - Apache tomcat 9.0 
 
 - Dev tool
    - Eclipse Java Oxygen

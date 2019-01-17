@@ -13,9 +13,6 @@ from SEMI project
 -첨부1
 ![zip1](https://user-images.githubusercontent.com/41541789/51312244-2a5e1d80-1a8e-11e9-8b5f-6aa63dace8d3.png)
 
--첨부2
-![zip2](https://user-images.githubusercontent.com/41541789/51312248-2cc07780-1a8e-11e9-96fd-be753e379bbe.png)
-
 
 ```
 JSP/Servlet을 이용해 웹사이트를 만든 것에 의의를 두고 열심히 제작하였습니다. 
